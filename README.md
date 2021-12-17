@@ -11,8 +11,6 @@ In here you can find my personal study repositories and some special tests.
 
 <hr />
 
-<br/>
-
 ### About Me 🚀
 💻 I am a Full-stack developer with comprehensive knowledge of web-based applications and agile methodologies. Dedicated to building innovative and high quality systems in an agile way. Currently, I have been driving my studies in software architecture with a focus on distributed systems.
 
@@ -25,7 +23,7 @@ In here you can find my personal study repositories and some special tests.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeisonBorba&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
- ## ⚡ Technologies I've been working with
+ ### ⚡ Technologies I've been working with
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Docker" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -47,7 +45,7 @@ In here you can find my personal study repositories and some special tests.
   
 <br /><hr />
 
-## 🌱 Technologies I've been learning
+### 🌱 Technologies I've been learning
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
